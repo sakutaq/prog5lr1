@@ -31,4 +31,5 @@ sys.path.append("http://localhost:8000")
 
 8.Протестируйте работу удаленного импорта, используя в качестве источника модуля другие "хостинги" (например, repl.it, github pages, beget, sprinthost).
 9.Переписать содержимое функции url_hook, класса URLLoader с помощью модуля requests (см. комменты).
+
 ![9](screenshots/2.jpg)
